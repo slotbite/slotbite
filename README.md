@@ -7,15 +7,13 @@
 <p align="center">Soy <strong>Desarrollador Python Data Engineer Senior </strong> con 5 años experiencia.<br />¡Take a look 👇!</p>
 
 
-[![Visits](https://gpvc.arturio.dev/slotbite)](https://github.com/slotbite/github-profile-readme)
+
 
 <!-- ![image](https://gists-readme.yizack.com/api?user={slotbite}) -->
 
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=slotbite)
 
-
-
-
+[![Visits](https://gpvc.arturio.dev/slotbite)](https://github.com/slotbite/github-profile-readme)
 <!---
 slotbite/slotbite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
