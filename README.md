@@ -9,6 +9,10 @@
 
 ![image](https://gists-readme.yizack.com/api?user={slotbite})
 
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username={slotbite})<|endoftext|>
+
+
+
 
 <!---
 slotbite/slotbite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
