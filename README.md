@@ -5,10 +5,9 @@
 - 📫 How to reach me ...
 - 
 [![Visits](https://gpvc.arturio.dev/slotbite)](https://github.com/slotbite/github-profile-readme)
+ 
 
-[![Visits](https://gpvc.arturio.dev/slotbite)](https://github.com/slotbite/github-profile-readme)
-
-![image]({https://gists-readme.yizack.com/api?user={slotbite}})
+![image](https://gists-readme.yizack.com/api?user={slotbite})
 
 
 <!---
