@@ -9,6 +9,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Como ⚡ publico una udf para Athena ? Parte I](https://dev.to/slotbite/como-publico-una-udf-para-athena-parte-i-1fkc)
+- [Representing Directory &amp; File Structure in Markdown Syntax](https://dev.to/slotbite/representing-directory-file-structure-in-markdown-syntax-4gk4)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
