@@ -9,6 +9,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [You miss Copilot ? Say hi GPT-3 pilot 🖖](https://dev.to/slotbite/you-miss-copilot-say-hi-gpt-3-pilot-1ecc)
 - [Answer: Impossible to get CRS with tomcat : org.opengis.referencing.NoSuchAuthorityCodeException](https://dev.to/slotbite/answer-impossible-to-get-crs-with-tomcat-orgopengisreferencingnosuchauthoritycodeexception-180l)
 - [Como ⚡ publico una udf para Athena ? Parte I](https://dev.to/slotbite/como-publico-una-udf-para-athena-parte-i-1fkc)
 - [Representing Directory &amp; File Structure in Markdown Syntax](https://dev.to/slotbite/representing-directory-file-structure-in-markdown-syntax-4gk4)
