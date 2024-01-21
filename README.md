@@ -9,10 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Answer: AWS Step Function - Dynamic parallelism MaxConcurrency Field](https://dev.to/slotbite/answer-aws-step-function-dynamic-parallelism-maxconcurrency-field-491p)
 - [Full screen chrome WITHIN a window?](https://dev.to/slotbite/full-screen-chrome-within-a-window-lco)
 - [Smooth scroll in Visual Studio code](https://dev.to/slotbite/smooth-scroll-in-visual-studio-code-4epi)
 - [You miss Copilot ? Say hi GPT-3 pilot 🖖](https://dev.to/slotbite/you-miss-copilot-say-hi-gpt-3-pilot-1ecc)
-- [Answer: Impossible to get CRS with tomcat : org.opengis.referencing.NoSuchAuthorityCodeException](https://dev.to/slotbite/answer-impossible-to-get-crs-with-tomcat-orgopengisreferencingnosuchauthoritycodeexception-180l)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
