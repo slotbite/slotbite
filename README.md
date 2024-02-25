@@ -9,10 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How can I use the python logging in Ray?](https://dev.to/slotbite/how-can-i-use-the-python-logging-in-ray-2m0)
 - [Migrando geometries con DMS](https://dev.to/slotbite/aws-dms-new-updates-5881)
 - [Answer: AWS Step Function - Dynamic parallelism MaxConcurrency Field](https://dev.to/slotbite/answer-aws-step-function-dynamic-parallelism-maxconcurrency-field-491p)
 - [Full screen chrome WITHIN a window?](https://dev.to/slotbite/full-screen-chrome-within-a-window-lco)
-- [Smooth scroll in Visual Studio code](https://dev.to/slotbite/smooth-scroll-in-visual-studio-code-4epi)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
