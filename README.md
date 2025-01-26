@@ -9,10 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/slotbite/-3nk8)
 - [Installing Python Dependencies on AWS Lambda Using EFS](https://dev.to/slotbite/installing-python-dependencies-on-aws-lambda-using-efs-1n25)
 - [🚀 Never Lose Your Clipboard History Again on Windows!](https://dev.to/slotbite/lost-last-paste--3a9a)
 - [How can I use the python logging in Ray?](https://dev.to/slotbite/how-can-i-use-the-python-logging-in-ray-2m0)
-- [Migrando geometries con DMS](https://dev.to/slotbite/aws-dms-new-updates-5881)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
